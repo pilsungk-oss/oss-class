@@ -8,3 +8,4 @@ Things to buy -- shopping list
 5. toilet paper
 6. mask
 7. rice
+8. snacks
