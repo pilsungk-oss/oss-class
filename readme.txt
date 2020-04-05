@@ -1,7 +1,6 @@
 This is a read me file.
 
 Things to buy -- shopping list
-2. bread
 3. ramyoun
 4. water
 5. toilet paper
