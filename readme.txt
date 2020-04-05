@@ -1,6 +1,7 @@
 This is a read me file.
 
 Things to buy -- shopping list
+1. milk
 4. water
 5. toilet paper
 6. mask
