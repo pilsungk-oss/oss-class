@@ -12,3 +12,6 @@ Things in private list
 1. book
 2. toy
 3. apple
+
+oss-psk's list
+1. newspaper
